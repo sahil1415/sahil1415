@@ -50,23 +50,15 @@
   <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Sahil's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sahil1415&theme=chartreuse-dark&hide_border=false" />
 </td>
 <td width="50%" align="center">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sahil1415&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil1415&theme=chartreuse-dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
 </td>
 </tr>
 </table>
 
-<p>
-  <picture align="center">
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
-  </picture>
-</p>
-
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect with Me
 
 <p align="center">
-  <a href="mailto:sahil1415x@gmail.com">
+  <a href="mailto:sahilansari37863@gmail.com">
     <img align="center" alt="Sahil | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a>&nbsp;&nbsp;
   <a href="https://github.com/sahil1415">
